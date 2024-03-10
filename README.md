@@ -13,3 +13,6 @@
 <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=vishalraj9102&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
+<a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast"/>
+    </a>
