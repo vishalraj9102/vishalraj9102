@@ -15,6 +15,3 @@
     </a>
 
 
-<a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=Note_application&cache_seconds=86400&theme=highcontrast"/>
-    </a>
