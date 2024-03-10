@@ -9,3 +9,5 @@
 • 🌱 I’m currently learning 'DSA' "and" 'Web-Development'
 
 • 📫 How to reach me "vishalrajmehra95@gmail.com"
+
+[holi]: https://github-readme-stats.vercel.app/api?username=vishalraj9102&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi
