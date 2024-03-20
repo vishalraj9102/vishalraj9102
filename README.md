@@ -1,4 +1,4 @@
-<h1 align="center" ><a href="https://sajansharma0017.github.io/Portfolio-Sajan-Sharma-main/" target="_blank">Hi, I'm Vishal Raj </a>
+<h1 align="center" >Hi, I'm Vishal Raj </a>
 
   
 <h2>About ME:-<h2>
