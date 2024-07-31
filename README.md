@@ -44,8 +44,8 @@
     </a>
 </div>
 
-<h2 align="center" style="font-size: 2em;">Connect with Me</h2>
-<p align="center" style="font-size: 1.2em;">
+<h2 align="center" style="font-size: 4em;">Connect with Me</h2>
+<p align="center" style="font-size: 3em;">
     <a href="https://www.linkedin.com/in/vishal-raj-699205235/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
