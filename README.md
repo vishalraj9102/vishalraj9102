@@ -9,7 +9,7 @@
     📫 Reach me at: <a href="mailto:vishalrajmehra95@gmail.com">vishalrajmehra95@gmail.com</a>
 </p>
 
-<h2 align="center" style="font-size: 4em;">Skills</h2>
+<h2 align="center" style="font-size: 5em;">Skills</h2>
 <p align="center" style="font-size: 3.2em;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 </p>
 
-<h2 align="center" style="font-size: 3em;">Projects</h2>
+<h2 align="center" style="font-size: 4em;">Projects</h2>
 <p align="center">
     <a href="https://github.com/vishalraj9102/project1">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=project1&theme=tokyonight" />
