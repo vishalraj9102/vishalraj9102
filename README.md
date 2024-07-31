@@ -2,7 +2,7 @@
 
 <h2 align="center" style="font-size: 2em;">About Me</h2>
 
-<p align="center" style="font-size: 1.2em;">
+<p align="center" style="font-size: 3.5em;">
     🎓 4th Year IT Student at <a href="https://www.niet.co.in/">NIET</a>.<br>
     👀 Interested in Frontend Development, Python Backend Development.<br>
     🌱 Currently learning 'DSA' and 'Frontend Development'.<br>
