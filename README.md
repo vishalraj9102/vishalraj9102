@@ -46,11 +46,11 @@
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/vishalraj9102">
+    <a href="https://www.linkedin.com/in/vishal-raj-699205235/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://twitter.com/vishalraj9102">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <a href="https://leetcode.com/u/Vishal_raj9525/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
     </a>
     <a href="mailto:vishalrajmehra95@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
