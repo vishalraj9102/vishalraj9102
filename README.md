@@ -25,7 +25,6 @@ I'm a passionate software developer with expertise in backend development, web s
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
 
 ## 🚀 Projects
