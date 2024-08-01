@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
     <img src="https://img.shields.io/badge/-REST API-FF6C37?style=flat-square&logo=restapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 <h2 align="center" style="font-size: 4em;">Projects</h2>
@@ -45,6 +44,16 @@
         <img width="49%" alt="Top Languages" src="https://my-stats-lemon.vercel.app/api/top-langs/?username=vishalraj9102&layout=compact&theme=tokyonight&hide_border=true"/>
     </a>
 </div>
+
+<h2 align="center" style="font-size: 3em;">GitHub Trophies</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishalraj9102&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<h2 align="center" style="font-size: 3em;">Streak Stats</h2>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalraj9102&theme=tokyonight&hide_border=true" />
+</p>
 
 <h2 align="center" style="font-size: 3em;">Connect with Me</h2>
 <p align="center" style="font-size: 2.2em;">
