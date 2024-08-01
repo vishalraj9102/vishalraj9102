@@ -1,16 +1,16 @@
-<h1 align="center" style="font-size: 3.5em;">Hi, I'm Vishal Raj</h1>
+<h1 align="center" style="font-size: 4.5em;">Hi, I'm Vishal Raj</h1>
 
-<h2 align="center" style="font-size: 4em;">About Me</h2>
+<h2 align="center" style="font-size: 5em;">About Me</h2>
 
-<p align="center" style="font-size: 3.2em;">
+<p align="center" style="font-size: 3.5em;">
     🎓 4th Year IT Student at <a href="https://www.niet.co.in/">NIET</a>.<br>
     👀 Interested in Frontend Development, Python Backend Development.<br>
     🌱 Currently learning 'DSA' and 'Frontend Development'.<br>
     📫 Reach me at: <a href="mailto:vishalrajmehra95@gmail.com">vishalrajmehra95@gmail.com</a>
 </p>
 
-<h2 align="center" style="font-size: 5em;">Skills</h2>
-<p align="center" style="font-size: 3.2em;">
+<h2 align="center" style="font-size: 5.5em;">Skills</h2>
+<p align="center" style="font-size: 3.5em;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-REST API-FF6C37?style=flat-square&logo=restapi&logoColor=white" />
 </p>
 
-<h2 align="center" style="font-size: 4em;">Projects</h2>
+<h2 align="center" style="font-size: 5em;">Projects</h2>
 <p align="center">
     <a href="https://github.com/vishalraj9102/project1">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=project1&theme=tokyonight" />
@@ -35,7 +35,7 @@
     </a>
 </p>
 
-<h2 align="center" style="font-size: 3em;">GitHub Stats</h2>
+<h2 align="center" style="font-size: 4.5em;">GitHub Stats</h2>
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=vishalraj9102&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -45,18 +45,18 @@
     </a>
 </div>
 
-<h2 align="center" style="font-size: 3em;">GitHub Trophies</h2>
+<h2 align="center" style="font-size: 4em;">GitHub Trophies</h2>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=vishalraj9102&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
-<h2 align="center" style="font-size: 3em;">Streak Stats</h2>
+<h2 align="center" style="font-size: 4em;">Streak Stats</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalraj9102&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2 align="center" style="font-size: 3em;">Connect with Me</h2>
-<p align="center" style="font-size: 2.2em;">
+<h2 align="center" style="font-size: 4em;">Connect with Me</h2>
+<p align="center" style="font-size: 2.5em;">
     <a href="https://www.linkedin.com/in/vishal-raj-699205235/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
@@ -66,4 +66,9 @@
     <a href="mailto:vishalrajmehra95@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
+</p>
+
+<h2 align="center" style="font-size: 4em;">Visitor Count</h2>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vishalraj9102&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
