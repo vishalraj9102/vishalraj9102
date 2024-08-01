@@ -58,10 +58,10 @@ I'm a passionate software developer with expertise in backend development, web s
 </p>
 
 ## 📝 Latest Blog Posts
-<p align="center">
-    - [Understanding FastAPI](https://yourblog.com/understanding-fastapi)
-    - [Machine Learning with Python](https://yourblog.com/machine-learning-with-python)
-</p>
+
+- [Understanding FastAPI](https://yourblog.com/understanding-fastapi)
+- [Machine Learning with Python](https://yourblog.com/machine-learning-with-python)
+
 
 ## 💬 Let's Connect!
 <p align="center">
