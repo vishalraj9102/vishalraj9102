@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center" style="font-size: 5.5em;">Skills</h2>
-<p align="center" style="font-size: 3.5em;">
+<p align="center" style="font-size: 4em;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -55,8 +55,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalraj9102&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2 align="center" style="font-size: 4em;">Connect with Me</h2>
-<p align="center" style="font-size: 2.5em;">
+<h2 align="center" style="font-size: 4.5em;">Connect with Me</h2>
+<p align="center" style="font-size: 3em;">
     <a href="https://www.linkedin.com/in/vishal-raj-699205235/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
