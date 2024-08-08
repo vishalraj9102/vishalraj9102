@@ -31,7 +31,7 @@
 
 ## 🚀 Projects
 <p align="center">
-    <a href="https://github.com/vishalraj9102/Driver-Drowsiness-Detection-System" target="_blank">
+    <a href="https://github.com/vishalraj9102/Driver-Drowsiness-Detction-System.git" target="_blank">
         <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=Driver-Drowsiness-Detection-System&theme=tokyonight" alt="Driver Drowsiness Detection System" />
     </a>
     <a href="https://github.com/vishalraj9102/Vehicle-Breakdown-Assistance" target="_blank">
