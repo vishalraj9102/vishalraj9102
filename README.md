@@ -59,11 +59,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalraj9102&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
-## 📝 Latest Blog Posts
-<p align="center" style="font-size: 18px;">
-    <a href="https://yourblog.com/understanding-fastapi" target="_blank">Understanding FastAPI</a><br>
-    <a href="https://yourblog.com/machine-learning-with-python" target="_blank">Machine Learning with Python</a>
-</p>
 
 ## 📚 Education
 <p align="center" style="font-size: 18px;">
