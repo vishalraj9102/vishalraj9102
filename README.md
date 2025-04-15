@@ -34,9 +34,6 @@
     <a href="https://github.com/vishalraj9102/Driver-Drowsiness-Detction-System" target="_blank">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=Driver-Drowsiness-Detction-System&theme=tokyonight" />
     </a>
-    <a href="https://github.com/vishalraj9102/Vehicle-Breakdown-Assistance" target="_blank">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=Vehicle-Breakdown-Assistance&theme=tokyonight" />
-    </a>
     <a href="https://github.com/vishalraj9102/video_analyzer" target="_blank">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalraj9102&repo=video_analyzer&theme=tokyonight" />
     </a>
